@@ -2,7 +2,7 @@
 ### My name is Jaehee Jeong
 I am high school student, and the field of interest is **electrical device and controls**📚.
 
-I am interested in **iOS developing**📱
+Now I am interested in **iOS developing**📱
 
 ---------------------------------------------------------------
 ### 🗣 **I SPEAK...**

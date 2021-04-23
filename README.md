@@ -1,6 +1,6 @@
 ## 👋 Hi there! 👋
 ### My name is Jaehee Jeong
-My major is **electronic control**📚 and I'm currently a student.
+I am high school student, and the field of interest is **electrical device and controls**📚.
 
 I am interested in **iOS developing**📱
 

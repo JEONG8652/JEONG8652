@@ -16,10 +16,11 @@ Now I am interested in **iOS developing**📱
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=white"/></a>
 
-### 🛠 **MY TOOL...**
+### 🛠 **MY TOOLS...**
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 
 -----------------------------------------------------------------
 [![Jaehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gepoche)](https://github.com/anuraghazra/github-readme-stats)

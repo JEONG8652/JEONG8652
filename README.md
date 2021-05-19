@@ -5,7 +5,7 @@ I am high school student, and the field of interest is **electrical device and c
 Now I am interested in **iOS developing**📱
 
 ---------------------------------------------------------------
-### 🗣 **I SPEAK...**
+### 🗣 **I SPEAK A LITTLE BIT OF...**
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>

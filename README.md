@@ -24,6 +24,7 @@ Now I am interested in **iOS developing**📱
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat-square&logo=Adobe%20Lightroom&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=Android%20Studio&logoColor=white"/></a>
 
 ### 💻 **ENVIRONMENT**

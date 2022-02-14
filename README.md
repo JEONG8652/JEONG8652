@@ -33,7 +33,7 @@ Now I am interested in **iOS developing**📱
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>
 
 -----------------------------------------------------------------
-[![Jaehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gepoche)](https://github.com/anuraghazra/github-readme-stats)
+[![Jaehee's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONG8652)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------------------------
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=forche)](https://solved.ac/forche)
